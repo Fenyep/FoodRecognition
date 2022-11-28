@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "FoodRecognition",
+    "slug": "FoodRecognition",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
